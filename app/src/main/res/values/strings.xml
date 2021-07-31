@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AplicationNotas</string>
+    <string name="ingrese_nota_4">Ingrese Nota 4</string>
+    <string name="ingrese_nota_3">Ingrese Nota 3</string>
+    <string name="ingrese_nota_1">Ingrese Nota 1</string>
+    <string name="ingrese_nota_2">Ingrese Nota 2</string>
+    <string name="menor">Menor</string>
+    <string name="promediar">Promediar</string>
+    <string name="mayor">Mayor</string>
+</resources>
